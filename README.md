@@ -1,4 +1,3 @@
-# Getting-And-Cleaning-Data
 # Getting and Cleaning Data Project
 Creator: Bola LAWAL <br />
 Module: Getting and Cleaning Data Course Project <br />
