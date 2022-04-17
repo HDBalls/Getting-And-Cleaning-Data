@@ -26,9 +26,9 @@ The libraries used in this module were data.table and dplyr.
 
 ## Review Criteria
 
-Goal | Item | Link
---- | --- | ---
-Analysis R Script |  run_analysis.R |  [R Script Link](https://github.com/HDBalls/Getting-And-Cleaning-Data/commits/run_analysis.R "run_analysis.R")
-A Tidy Data Set |  Clean Data Set |  [Data Set Link](https://github.com/HDBalls/Getting-And-Cleaning-Data/commits/main/Final_Tidy_Data.txt "tidyData.txt")
-Github Repo | Repo |  [Repository Link](https://github.com/HDBalls/Getting-And-Cleaning-Data.git "Click to go to Repo")
-Codebook | CodeBook.md |  [Repository Link](https://github.com/HDBalls/Getting-And-Cleaning-Data/commits/CodeBook.md "CodeBook")
+Goal | Item
+--- | --- 
+Analysis R Script |  run_analysis.R 
+A Tidy Data Set |  Clean Data Set 
+Github Repo | Repo
+Codebook | CodeBook.md 
